@@ -1,0 +1,26 @@
+p.regular {
+  width:75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+p.summary {
+  width: 50%;
+  font-style: italic;
+}
+
+
+h1.regular {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.summary {
+  color: red;
+}
+
+.red {
+  color: red;
+}
